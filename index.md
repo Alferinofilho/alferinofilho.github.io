@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Me chamo Alferino Gomes Lima Filho, 36 anos, me formei em Engenharia de Produção no ano de 2020 na Universidade Pitágoras Unopar e atualmente curso Licenciatura em Matemática pela UFF. Atuei como Representante de Atendimento Especializado no BackOffice de um Call Center de grande porte no município de Macaé - RJ onde tive a oportunidade de me desenvolver profissionalmente.
 
-[Visite meu perfil no Linkedin](www.linkedin.com/in/alferinofilho).
+[Visite meu perfil no Linkedin](./www.linkedin.com/in/alferinofilho.html).
 
 There should be whitespace between paragraphs.
 
