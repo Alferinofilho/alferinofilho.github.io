@@ -6,118 +6,21 @@ layout: default
 
 Me chamo Alferino Gomes Lima Filho, 36 anos, me formei em Engenharia de Produção no ano de 2020 na Universidade Pitágoras Unopar e atualmente curso Licenciatura em Matemática pela UFF. Atuei como Representante de Atendimento Especializado no BackOffice de um Call Center de grande porte no município de Macaé - RJ onde tive a oportunidade de me desenvolver profissionalmente.
 
-There should be whitespace between paragraphs.
+Meu objetivo profissional é atuar como analista de dados construindo visualizações em ferramentas como PowerBI e Tableau. Também tenho conhecimentos em modelagem de banco de dados relacional e não relacional podendo dar suporte aos Engenheiros e Cientistas de Dados. Tenho bastante interesse em ferramentas de CRM tais como SalesForce sendo apto a utilizá-las no modo de desenvolvimento, ou seja, utilizando suas APIs e Webhooks.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Formação Acadêmica
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+ENGENHARIA DE PRODUÇÃO – Universidade Pitágoras Unopar - conclusão em 12/2020
 
-## Header 2
+# Idioma
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Inglês fluente (writing, listening, reading, conversation)
 
-### Header 3
+# Conhecimentos em tecnologia
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Power BI
+Tableau
+Modelagem de bancos de dados
+Excel
