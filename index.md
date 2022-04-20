@@ -6,8 +6,6 @@ layout: default
 
 Me chamo Alferino Gomes Lima Filho, 36 anos, me formei em Engenharia de Produção no ano de 2020 na Universidade Pitágoras Unopar e atualmente curso Licenciatura em Matemática pela UFF. Atuei como Representante de Atendimento Especializado no BackOffice de um Call Center de grande porte no município de Macaé - RJ onde tive a oportunidade de me desenvolver profissionalmente.
 
-[Visite meu perfil no Linkedin](./another-page.html).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
