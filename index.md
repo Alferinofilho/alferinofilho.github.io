@@ -8,11 +8,9 @@ Me chamo Alferino Gomes Lima Filho, 36 anos, me formei em Engenharia de Produç�
 
 Meu objetivo profissional é atuar como analista de dados construindo visualizações em ferramentas como PowerBI e Tableau. Também tenho conhecimentos em modelagem de banco de dados relacional e não relacional podendo dar suporte aos Engenheiros e Cientistas de Dados. Tenho bastante interesse em ferramentas de CRM tais como SalesForce sendo apto a utilizá-las no modo de desenvolvimento, ou seja, utilizando suas APIs e Webhooks.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Educação
 
-# Formação Acadêmica
-
-ENGENHARIA DE PRODUÇÃO – Universidade Pitágoras Unopar - conclusão em 12/2020
+Engenharia de Produção – Universidade Pitágoras Unopar - conclusão em 12/2020
 
 # Idioma
 
@@ -24,3 +22,4 @@ Power BI
 Tableau
 Modelagem de bancos de dados
 Excel
+
